@@ -2,7 +2,7 @@ package cs1302.gallery;
 
 import javafx.application.Application;
 
-/**
+/** 
  * Driver for the {@code GalleryApp} class.
  */
 public class GalleryDriver {
